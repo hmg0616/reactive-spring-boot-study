@@ -10,7 +10,8 @@
 (발표 순서 : 권동희 -> 정서원 -> 김유진 -> 한문규)
 * 1주차(2022/05/31) : [**1장 스프링 부트 웹 애플리케이션 만들기**](https://github.com/hmg0616/reactive-spring-boot-study/issues/1), 발표자 : 정서원
 * 2주차(2022/06/14) : [**2장 스프링 부트를 활용한 데이터 엑세스**](https://github.com/hmg0616/reactive-spring-boot-study/issues/2), 발표자 : 한문규
-* 2주차(2022/06/28) : [**3장 스프링 부트 개발자 도구**](https://github.com/hmg0616/reactive-spring-boot-study/issues/3), 발표자 : 정서원
+* 3주차(2022/06/28) : [**3장 스프링 부트 개발자 도구**](https://github.com/hmg0616/reactive-spring-boot-study/issues/3), 발표자 : 정서원
+* 4주차(2022/07/12) : [**3장 스프링 부트 개발자 도구**](https://github.com/hmg0616/reactive-spring-boot-study/issues/4), 발표자 : 한문규
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
