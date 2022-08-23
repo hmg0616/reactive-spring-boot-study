@@ -13,6 +13,7 @@
 * 3주차(2022/06/28) : [**3장 스프링 부트 개발자 도구**](https://github.com/hmg0616/reactive-spring-boot-study/issues/3), 발표자 : 정서원
 * 4주차(2022/07/12) : [**4장 스프링 부트 테스트**](https://github.com/hmg0616/reactive-spring-boot-study/issues/4), 발표자 : 한문규
 * 5주차(2022/08/02) : [**5장 스프링 부트 운영**](https://github.com/hmg0616/reactive-spring-boot-study/issues/5), 발표자 : 김유진
+* 6주차(2022/08/23) : [**6장 스프링 부트 API 서버 구축**](https://github.com/hmg0616/reactive-spring-boot-study/issues/6), 발표자 : 권동희
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
