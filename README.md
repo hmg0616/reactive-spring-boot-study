@@ -15,12 +15,13 @@
 * 5주차(2022/08/02) : [**5장 스프링 부트 운영**](https://github.com/hmg0616/reactive-spring-boot-study/issues/5), 발표자 : 김유진
 * 6주차(2022/08/23) : [**6장 스프링 부트 API 서버 구축**](https://github.com/hmg0616/reactive-spring-boot-study/issues/6), 발표자 : 권동희
 * 7주차(2022/09/08) : [**7장 스프링 부트 메시징 ~ 8장 스프링 부트 R소켓**](https://github.com/hmg0616/reactive-spring-boot-study/issues/7), 발표자 : 김유진
-* 7주차(2022/09/08) : [**9장 스프링 시큐리티 ~ 한국판 부록**](https://github.com/hmg0616/reactive-spring-boot-study/issues/8), 발표자 : 권동희
+* 8주차(2022/09/22) : [**9장 스프링 시큐리티 ~ 한국판 부록**](https://github.com/hmg0616/reactive-spring-boot-study/issues/8), 발표자 : 권동희
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
 ## 일정 안지킨 사람
 * 5주차(2022/08/02) : 권동희
+* 8주차(2022/08/22) : 
 
 ## 목차
 * [1장] 스프링 부트 웹 애플리케이션 만들기
